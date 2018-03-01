@@ -1,0 +1,496 @@
+*{
+  margin: 0px;
+  padding:0px;
+}
+
+
+
+nav ul center {
+
+  margin: auto;
+  background-color: #3498DB;
+  height: 30px;
+  width: auto;
+  text-align: center;
+}
+nav ul center a:first-child{
+  text-align: auto;
+  display: inline-block;
+  margin: 5px 30px 5px 0px;
+}
+
+a{
+  text-align: center;
+
+
+}
+
+h2{
+text-align: center;
+background-color:#5DADE2;
+}
+
+
+
+.INICIO{
+
+  width: 1700px;
+  height: 1700px;
+  background-color: black;
+
+}
+
+.art1  article:first-child {
+  width: 1350px;
+  height: 450px;
+border: solid;
+border-color: black;
+display: inline-block;
+margin: 20px
+}
+
+
+.art1  article:first-child section{
+width: 600px;
+height: 350px;
+border: solid;
+border-color: black;
+float: left;
+margin: 20px
+}
+
+
+
+
+/*COLOMBIA*/
+
+.COLOMBIA nav:first-child {
+width: 600px;
+height: 170px;
+background-color: yellow;
+margin: 0px;
+
+}
+.COLOMBIA nav:nth-child(2){
+  width:600px;
+  height:90px;
+  background-color: blue;
+  margin: 0px;
+}
+.COLOMBIA nav:nth-child(3){
+
+width: 600px;
+height:90px;
+background-color: red;
+  margin: 0px ;
+}
+
+
+
+
+/*JAPON*/
+
+.JAPON nav{
+width: 600px;
+height: 350px;
+background-color: white;
+margin: 0px;
+display: inline-block;
+
+}
+.JAPON nav header{
+  width:200px;
+  height:200px;
+  background-color: red;
+  border-radius: 50%;
+  margin: 80px 200px;
+
+}
+
+
+
+
+
+.art2 article:first-child {
+  width: 1350px;
+  height: 450px;
+border: solid;
+border-color: black;
+display: inline-block;
+margin: 20px
+}
+
+
+.art2 article:first-child section{
+width: 600px;
+height: 350px;
+border: solid;
+border-color: black;
+float: left;
+margin: 20px
+}
+
+
+
+/*RUSIA*/
+
+.RUSIA nav:first-child{
+width: 600px;
+height: 117px;
+background-color: white;
+margin: 0px;
+}
+.RUSIA nav:nth-child(2){
+
+  width: 600px;
+  height: 117px;
+  background-color: blue;
+  margin: 0px;
+}
+.RUSIA nav:nth-child(3){
+
+width: 600px;
+height: 117px;
+background-color: red;
+margin: 0px;
+}
+
+/*EGIPTO*/
+
+.EGIPTO nav:first-child{
+
+  width: 600px;
+  height: 117px;
+  background-color: red;
+  margin: 0px;
+  }
+.EGIPTO nav:nth-child(2){
+
+    width: 600px;
+    height: 117px;
+    background-color: white;
+    margin: 0px;
+    text-align: center;
+  }
+
+
+  .EGIPTO nav:nth-child(2) img{
+      width: 100px;
+      margin-bottom: 100px;
+      margin-top: 9px;
+    }
+
+.EGIPTO nav:nth-child(3){
+
+  width: 600px;
+  height: 117px;
+  background-color: black;
+  margin: 0px;
+
+  }
+
+  .art3 article:first-child {
+  width: 1350px;
+  height: 450px;
+  border: solid;
+  border-color: black;
+  display: inline-block;
+  margin: 20px
+  }
+
+
+  .art3 article:first-child section{
+  width: 600px;
+  height: 350px;
+  border: solid;
+  border-color: black;
+  float: left;
+  margin: 20px
+  }
+
+  /*MEXICO*/
+
+  .MEXICO nav:first-child{
+     width: 200px;
+    height: 350px;
+    background-color: green;
+      float: left;
+    margin: 0px 0px;
+    }
+
+    .MEXICO nav:nth-child(2){
+     width: 200px;
+    height: 350px;
+
+    background-color: white;
+    margin: 0px 0px;
+    float: left;
+    }
+
+    .MEXICO nav:nth-child(2) img{
+        width: 100px;
+        margin-bottom: 100px;
+        margin-top: 122px ;
+        margin-left:49px;
+      }
+
+    .MEXICO nav:nth-child(3){
+     width: 200px;
+    height: 350px;
+      float: left;
+    background-color: red;
+    margin: 0px 0px;
+
+    }
+
+
+
+  /*ESPAÑA*/
+
+
+.ESPAÑA nav:first-child, .ESPAÑA nav:nth-child(3){
+
+  width: 600px;
+  height: 90px;
+  background-color: red;
+  margin: 0px;
+}
+
+.ESPAÑA nav:nth-child(2) img{
+  width: 118px;
+  margin-bottom: 100px;
+  margin-top: 28px ;
+  margin-left:138px;
+}
+.ESPAÑA nav:nth-child(2){
+  width: 600px;
+  height: 170px;
+  background-color: yellow;
+  margin: 0px;
+}
+
+
+
+  /*ARGENTINA*/
+
+.ARGENTINA nav:first-child{
+  width: 600px;
+  height: 117px;
+  background-color: skyblue;
+  margin: 0px;
+  }
+
+.ARGENTINA nav:nth-child(2){
+  width: 600px;
+  height: 117px;
+  background-color: white;
+  margin: 0px;
+  }
+  .ARGENTINA nav:nth-child(2) img{
+  width: 100px;
+  height: 100px;
+  margin-left: 250px;
+  margin-top: 10px;
+  }
+
+.ARGENTINA nav:nth-child(3){
+  width: 600px;
+  height: 117px;
+  background-color: skyblue;
+  margin: 0px;
+  }
+/*CANADA*/
+
+
+.CANADA nav:first-child{
+   width: 120px;
+  height: 350px;
+  background-color: red;
+    float: left;
+  margin: 0px 0px;
+  }
+
+  .CANADA nav:nth-child(2){
+   width: 350px;
+  height: 350px;
+  background-color: white;
+  margin: 0px 0px;
+  float: left;
+  }
+
+  .CANADA nav:nth-child(2) img{
+      width: 100px;
+      margin-bottom: 100px;
+      margin-top: 122px ;
+      margin-left:120px;
+    }
+
+  .CANADA nav:nth-child(3){
+   width: 130px;
+  height: 350px;
+    float: left;
+  background-color: red;
+  margin: 0px 0px;
+
+  }
+
+
+
+
+  /*COSTA_RICA*/
+.COSTA_RICA nav:first-child, .COSTA_RICA nav:nth-child(5){
+  width: 600px;
+  height: 55px;
+  background-color: blue;
+  margin: 0px;
+
+}
+
+
+.COSTA_RICA nav:nth-child(2), .COSTA_RICA nav:nth-child(4){
+  width: 600px;
+  height: 55px;
+  background-color: white;
+  margin: 0px ;
+}
+
+.COSTA_RICA nav:nth-child(3){
+  width: 600px;
+  height: 130px;
+  background-color: red;
+  margin: 0px ;
+}
+
+.COSTA_RICA nav:nth-child(3) img{
+  width:100px;
+  height: 100px;
+  margin: 15px 110px ;
+}
+
+
+/*COREA_DEL_NORTE*/
+
+
+
+.COREA_DEL_NORTE nav:first-child, .COREA_DEL_NORTE nav:nth-child(5){
+  width: 600px;
+  height: 60px;
+  background-color: blue;
+  margin: 0px;
+
+}
+.COREA_DEL_NORTE nav:nth-child(2), .COREA_DEL_NORTE nav:nth-child(4){
+  width: 600px;
+  height: 15px;
+  background-color: white;
+  margin: 0px ;
+}
+
+.COREA_DEL_NORTE nav:nth-child(3){
+  width: 600px;
+  height: 200px;
+  background-color: red;
+  margin: 0px ;
+}
+circulo{
+  width: 160px;
+  height: 160px;
+  background-color: white;
+  margin: 25px 100px;
+  border-radius: 50%;
+  display: inline-block;
+
+}
+.corea{
+width: 100px;
+height: 100px;
+background: white;
+display: block;
+margin: 23px 30px;
+}
+
+
+/*PANAMA*/
+.PANAMA nav:first-child{
+  width: 300px;
+  height: 175px;
+  background-color: white;
+  float: left;
+    display: inline-block;
+  margin: 0px ;
+}
+
+.PANAMA nav:first-child img{
+  width:100px;
+  height: 100px;
+  margin: 30px 100px ;
+}
+
+.PANAMA nav:nth-child(2){
+  width: 300px;
+  height: 175px;
+  float: right;
+  display: inline-block;
+  background-color: red;
+  margin: 0px ;
+}
+
+
+
+.PANAMA nav:nth-child(3){
+  width: 300px;
+  height: 175px;
+  float: left;
+  display: inline-block;
+  background-color: blue;
+  margin: 0px ;
+}
+.PANAMA nav:nth-child(4){
+  width: 300px;
+  height: 175px;
+  float: right;
+  display: inline-block;
+  background-color: white;
+  margin: 0px ;
+}
+.PANAMA nav:nth-child(4) img{
+  width:100px;
+  height: 100px;
+  margin: 30px 100px ;
+}
+
+
+
+
+
+
+.FINLANDIA nav{
+width: 600px;
+height: 350px;
+background: whitesmoke;
+margin: auto;
+}
+
+.FINLANDIA nav aside{
+width: 600px;
+height: 100px;
+background: blue;
+margin: 140px 0px 50px 0px;
+display: inline-block;
+}
+
+.azul1{
+width: 100px;
+height: 300px;
+background: blue;
+margin: -140px 0px 0px 150px;
+display: block;
+}
+
+.azul{
+    width: 100px;
+    height: 56px;
+    background: blue;
+    margin: 0px 0px 0px 150px;
+    display: block;
+}
